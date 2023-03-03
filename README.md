@@ -21,3 +21,6 @@ To use FitnessPal, simply open the app and log in to your account. You can then 
 
 ## Support
 If you encounter any issues with FitnessPal, please contact our support team at support@fitnesspal.com.
+
+## Contributing
+If you would like to contribute to FitnessPal, please fork the repository and submit a pull request. We welcome contributions from the community and appreciate your help in making the app better.
