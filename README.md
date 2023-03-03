@@ -18,3 +18,6 @@ To install FitnessPal, simply search for the app on the Google Play Store or oth
 
 ## Usage
 To use FitnessPal, simply open the app and log in to your account. You can then start inputting your physical activity and nutrition data to begin tracking your progress. The app will provide insights into your health and fitness habits and help you monitor your progress towards your fitness goals. Additionally, you can integrate the app with wearable devices like Fitbit, Apple Watch, or Garmin to track your physical activities automatically.
+
+## Support
+If you encounter any issues with FitnessPal, please contact our support team at support@fitnesspal.com.
