@@ -1,5 +1,5 @@
 ## FitnessPal
-FitnessPal is a health and fitness tracking app that helps users track their physical activities, nutrition, and progress towards their fitness goals. The app allows users to input data, such as physical activity, calorie intake, and water consumption, and provides insights into their health and fitness habits. Additionally, FitnessPal can integrate with wearable devices like Fitbit, Apple Watch, or Garmin to track heart rate, steps taken, and other physical activities automatically. The app also features social sharing functionality, allowing users to share their progress with friends and family on social media platforms.
+**FitnessPal**  is a health and fitness tracking app that helps users track their physical activities, nutrition, and progress towards their fitness goals. The app allows users to input data, such as physical activity, calorie intake, and water consumption, and provides insights into their health and fitness habits. Additionally, FitnessPal can integrate with wearable devices like Fitbit, Apple Watch, or Garmin to track heart rate, steps taken, and other physical activities automatically. The app also features social sharing functionality, allowing users to share their progress with friends and family on social media platforms.
 
 
 ## Features
