@@ -12,3 +12,6 @@ FitnessPal is a health and fitness tracking app that helps users track their phy
 
 ## Getting Started
 To get started with FitnessPal, you will need to download and install the app from the Google Play Store or other relevant app stores. Once the app is installed, you can create an account or log in with your existing social media credentials. You can then start inputting your physical activity and nutrition data to begin tracking your progress.
+
+## Installation
+To install FitnessPal, simply search for the app on the Google Play Store or other relevant app stores and download it. Once the app is installed, you can create an account or log in with your existing social media credentials.
